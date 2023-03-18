@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm excited to collaborate! You're welcome to my [discord server](https://discord.gg/HEd72YnzVq).
+
+![Discord Banner](https://discordapp.com/api/guilds/1080840305441525766/widget.png)
+
 <!--
 **cuppachino/cuppachino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
