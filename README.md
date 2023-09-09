@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm excited to collaborate! You're welcome to my [discord server](https://discord.gg/HEd72YnzVq).
+I'm excited to collaborate! If you have any questions or need help, join my [discord server](https://discord.gg/HEd72YnzVq).
 
 ![Discord Banner](https://discordapp.com/api/guilds/1080840305441525766/widget.png)
 
