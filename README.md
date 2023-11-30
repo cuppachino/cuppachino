@@ -1,5 +1,5 @@
 ### Jacob Bergholtz
-#### (aka Cuppachino, aka Dubbleignite)
+#### aka Cuppachino, Dubbleignite (look for the green guy!)
 
 Multidisciplinary creative engineer. I explore big ideas using a mix of art, science, and psychology.
 
