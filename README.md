@@ -1,9 +1,9 @@
 ### Jacob Bergholtz
-#### aka Cuppachino, Dubbleignite (look for the green guy!)
+#### aka "Cuppachino", "dubble"
 
-Multidisciplinary creative engineer. I explore big ideas using a mix of art, science, and psychology.
+Multidisciplinary creative engineer. I like making things that encourage creativity.
 
-Feel free to join my [discord server](https://discord.gg/HEd72YnzVq) if you have any questions, I'm always happy to help.
+Feel free to join my [discord server](https://discord.gg/HEd72YnzVq) if you have any questions; I'm happy to help.
 
 ![Discord Banner](https://discordapp.com/api/guilds/1080840305441525766/widget.png)
 
