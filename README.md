@@ -9,6 +9,7 @@ Feel free to join my [discord server](https://discord.gg/HEd72YnzVq) if you have
 
 ### Currently working on:
 
+- 📦 [Logic gate simulation crate](https://github.com/cuppachino/logic_tools) for Bevy (Rust).
 - 🕹️ 2.5D [UNTITLED](https://github.com/cuppachino/engine) ft. procedural UGC (Rust/Wgpu)
 
 ### Passively maintaining:
