@@ -1,7 +1,7 @@
 ### Jacob Bergholtz
 #### aka "Cuppachino", "dubble"
 
-Multidisciplinary creative engineer. I like making things that encourage creativity.
+I like making things that encourage creativity.
 
 Feel free to join my [discord server](https://discord.gg/HEd72YnzVq) if you have any questions; I'm happy to help.
 
