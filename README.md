@@ -9,7 +9,7 @@ Good software deserves great support. [Drop into Discord](https://discord.gg/HEd
 
 ### Currently working on:
 
-- 🚀 [Schema generator & API explorer](https://github.com/BlossomiShymae/Needlework.Net) for the LCU.
+- 🚀 [Schema generator & API explorer](https://github.com/BlossomiShymae/poroshell) for the LCU.
 - 📦 [Logic gate simulation crate](https://github.com/cuppachino/logic_tools) for Bevy.
 
 ### Passively maintaining:
